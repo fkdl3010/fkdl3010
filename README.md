@@ -1,16 +1,43 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=fd866d&height=300&section=header&text=Park%20Sang%20GiL&fontSize=80&animation=fadeIn)
+<br><br><br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffkdl3010&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**fkdl3010/fkdl3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/> Hi there
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  i'm Sang-Gil Park, a junior web developer.
+  <br>
+  <br>
+  <br>
+  ## ✨ Tech Stack ✨
+  
+  <img src="https://img.shields.io/badge/-Java-white?logo=Java&logoColor=red&style=for-the-badge"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Spring-green?logo=Spring&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Oracle-red?logo=Oracle&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;<br><br>
+  <img src="https://img.shields.io/badge/-Javascript-black?logo=javascript&logoColor=yellow&style=for-the-badge"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=red&style=for-the-badge"/>&nbsp;&nbsp;
+  <br>
+  <br>
+  <br>
+
+  ## 🌟 GitHub Stats 🌟
+  <Br>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkdl3010&show_icons=true)
+
+  <br>
+  <br>
+  <br>
+  
+  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="29px"/> Conteact
+
+  <br>
+  <img src="https://img.shields.io/badge/-My Portfolio-blue?logo=pagekit&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-blog-black?logo=dev.to&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+
+</div>
