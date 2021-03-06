@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=fd866d&height=300&section=header&text=Park%20Sang%20GiL&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=fd866d&height=300&section=header&text=Park%20Sang%20GiL&fontSize=80&animation=fadeIn)
 <br><br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffkdl3010&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -37,3 +37,7 @@
   <img src="https://img.shields.io/badge/-blog-black?logo=dev.to&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
 
 </div>
+<br>
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=fd866d&height=300&section=footer&fontSize=80&animation=fadeIn)
