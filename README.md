@@ -9,7 +9,6 @@
   i'm Sang-Gil Park, a junior web developer.
   <br>
   <br>
-  <br>
   ## ✨ Tech Stack ✨
   
   <img src="https://img.shields.io/badge/-Java-white?logo=Java&logoColor=red&style=for-the-badge"/>&nbsp;&nbsp;
@@ -22,7 +21,6 @@
   <img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=red&style=for-the-badge"/>&nbsp;&nbsp;
   <br>
   <br>
-  <br>
 
   ## 🌟 GitHub Stats 🌟
   <Br>
@@ -30,10 +28,8 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkdl3010&show_icons=true)
 
   <br>
-  <br>
-  <br>
   
-  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="29px"/> Conteact
+  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35px"/> Conteact
 
   <br>
   <img src="https://img.shields.io/badge/-My Portfolio-blue?logo=pagekit&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
