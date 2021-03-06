@@ -30,11 +30,13 @@
   <br>
   
   ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35px"/> Conteact
-
   <br>
-  <img src="https://img.shields.io/badge/-My Portfolio-blue?logo=pagekit&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-blog-black?logo=dev.to&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+  
+  ### 👇 Click!! 👇
+  <br>
+  <img src="https://img.shields.io/badge/-My Portfolio-blue?logo=pagekit&logoColor=white&style=for-the-badge&link=https://fkdl3010.github.io/Myport/"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:fkdl3919@gmail.com"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-blog-black?logo=dev.to&logoColor=white&style=for-the-badge&link=https://fkdl3010.github.io/"/>&nbsp;&nbsp;
 
 </div>
 <br>
