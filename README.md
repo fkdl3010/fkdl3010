@@ -25,7 +25,7 @@
   ## 🌟 GitHub Stats 🌟
   <Br>
 
-  ![fkdl3010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sang-GiL%20Park&show_icons=true)
+  ![fkdl3010's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkdl3010&show_icons=true)
 
   <br>
   
