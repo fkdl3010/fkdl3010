@@ -40,4 +40,4 @@
 <br>
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=fd866d&height=300&section=footer&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=c3e4b0&height=300&section=footer&fontSize=80&animation=fadeIn)
