@@ -36,7 +36,7 @@
   <br>
   <img src="https://img.shields.io/badge/-My Portfolio-blue?logo=pagekit&logoColor=white&style=for-the-badge&link=https://fkdl3010.github.io/Myport/"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:fkdl3919@gmail.com"/>&nbsp;&nbsp;
-  <a href="https://fkdl3010.github.io/">
+  <a href="https://fkdl3010.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/-blog-black?logo=dev.to&logoColor=white&style=for-the-badge"/>
   </a>
   
