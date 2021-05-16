@@ -29,7 +29,7 @@
 
   <br>
   
-  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35px"/> Conteact
+  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35px"/> Contact
   
   ### 👇 Click!! 👇
   <br>
