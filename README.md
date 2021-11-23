@@ -4,7 +4,7 @@
 
 <div align="left">
 
-  ## 🌟 GitHub Stats 🌟
+  ## 🌟 GitHub Stats 
 </div>
   <Br>
 
@@ -14,3 +14,11 @@
 
   <br>
   </div>
+
+<a href="mailto:fkdl3919@gmail.com">
+  <img src="https://img.shields.io/badge/-mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge">
+  </a>&nbsp;&nbsp;
+  <a href="https://fkdl3010.github.io/">
+  <img src="https://img.shields.io/badge/-blog-black?logo=dev.to&logoColor=white&style=for-the-badge">
+  </a>
+
